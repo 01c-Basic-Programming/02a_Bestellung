@@ -5,7 +5,7 @@
 - https://app.code2flow.com/S6aDfrLhNLb4
 - https://app.code2flow.com/ZreLYvZsxEQB
 
-##Teilabschnitte im Struktogramm
+## Teilabschnitte im Struktogramm
 
 ## Iteration 01
 <img width="726" alt="image" src="https://github.com/przygoda/Bestellung/assets/1532178/2f96c616-d487-4ed2-8e8a-5343d0880425">
@@ -21,5 +21,6 @@
 
 ## Iteration 05
 <img width="717" alt="image" src="https://github.com/przygoda/Bestellung/assets/1532178/5b759612-ecdf-44af-9a41-9ca9939d5aa1">
+
 
 
